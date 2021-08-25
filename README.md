@@ -9,6 +9,6 @@ I'm expecting to get experience in the following basic concepts:
 * CSS
 * Javascript
 
-Here you can see, Live Demo: [Simple Calculator](https://foyjul-islam-raju.github.io/Simple-Calculator/)
+Here you can see, Live Demo: [TicTacToe](https://foyjul-islam-raju.github.io/Tic-Tac-Toe-Game/)
 
 Feel free to check out the code and don't forget to star the repo.
